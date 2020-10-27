@@ -19,7 +19,7 @@ import editdistance
 
 learning_rate = None
 DEFAULT_CONFIG = "/data/cain/src/lib-ocr/ocr/cannet/configs/CannetOCR_default_configs.ini"
-TRAIN_SIZE = 500
+TRAIN_SIZE = 200
 
 #TODO: load data
 # datapath = r"D:\Workspace\cinnamon\data\ocr\showa_mini_1k2\showa_mini_1k2\showa_mini_1k_train.txt"
